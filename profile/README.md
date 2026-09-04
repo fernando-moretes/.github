@@ -116,19 +116,14 @@ que não é o de quem passa por aqui.
 | [`ref-aws-pattern-library`](https://github.com/fernando-moretes/ref-aws-pattern-library) | A curated catalog of 22+ AWS reference architectures with diagrams, ADRs, Well-Architected poin | TypeScript |
 | [`ref-adr-decision-platform`](https://github.com/fernando-moretes/ref-adr-decision-platform) | Web platform to author, list and version ADRs and RFCs with MADR, Nygard and Y-statement templa | TypeScript |
 | [`ref-architecture-diagrams-library`](https://github.com/fernando-moretes/ref-architecture-diagrams-library) | Diagrams as code for AWS, C4, BPMN, event-driven, sequence and state — reproducible and reviewa | TypeScript |
-| [`ref-architect-frameworks-hub`](https://github.com/fernando-moretes/ref-architect-frameworks-hub) | Reference hub for AWS Well-Architected, TOGAF, C4, ArchiMate, DDD, 12-Factor and Cynefin. | TypeScript · ⭐ 1 |
-| [`app-solution-architecture-mcp-toolkit`](https://github.com/fernando-moretes/app-solution-architecture-mcp-toolkit) | Bilingual MCP toolkit for ADRs, threat modeling, Well-Architected review and governed AI archit | HTML · ⭐ 1 |
+| [`tool-google-terminal-search`](https://github.com/fernando-moretes/tool-google-terminal-search) | CLI utility for Google search from the terminal, maintained as part of Fernando Moretes public  | Shell |
+| [`dot-homebrew-google-terminal-search`](https://github.com/fernando-moretes/dot-homebrew-google-terminal-search) | Homebrew distribution repository for google-terminal-search, part of Fernando Moretes public to | Ruby · ⭐ 1 |
 
 <details>
 <summary><b>Ver os demais repositórios públicos</b></summary>
 
 | Repositório | O que é | Stack |
 |---|---|---|
-| [`tool-google-terminal-search`](https://github.com/fernando-moretes/tool-google-terminal-search) | CLI utility for Google search from the terminal, maintained as part of Fernando Moretes public  | Shell |
-| [`ref-rs-visao-real`](https://github.com/fernando-moretes/ref-rs-visao-real) | Public Fernando Moretes repository connected to the broader architecture and engineering portfo | Python · ⭐ 5 |
-| [`tool-m5cardputer-sshclient`](https://github.com/fernando-moretes/tool-m5cardputer-sshclient) | M5Cardputer SSH client experiment for embedded, IoT and developer tooling portfolio work. | C++ · ⭐ 67 |
-| [`dot-homebrew-google-terminal-search`](https://github.com/fernando-moretes/dot-homebrew-google-terminal-search) | Homebrew distribution repository for google-terminal-search, part of Fernando Moretes public to | Ruby · ⭐ 1 |
-| [`dot-setup-macos-developer`](https://github.com/fernando-moretes/dot-setup-macos-developer) | macOS developer workstation setup automation for repeatable engineering environments. | Shell · ⭐ 4 |
 | [`ref-sa-daily-toolkit`](https://github.com/fernando-moretes/ref-sa-daily-toolkit) | Daily skills, scripts and templates for Solution Architects: ADRs, Well-Architected, threat mod | TypeScript |
 | [`app-queue-advisor-pricing`](https://github.com/fernando-moretes/app-queue-advisor-pricing) | Queue Advisor pricing app published under moretes.com with public GitHub documentation. | TypeScript · ⭐ 1 |
 | [`platform-workflows`](https://github.com/fernando-moretes/platform-workflows) | Workflows reutilizaveis das pipelines | — |
@@ -140,7 +135,7 @@ que não é o de quem passa por aqui.
 
 <div align="center">
 
-**TypeScript · Python · HTML · Shell · Ruby · C++**
+**TypeScript · HTML · Python · Shell · Ruby · HCL**
 
 [fernando.moretes.com](https://fernando.moretes.com) · [LinkedIn](https://www.linkedin.com/in/fernandofatech/)
 
