@@ -1,0 +1,25 @@
+# Gerado por fernando-moretes/platform. Não edite aqui: mude no orquestrador e
+# rode `make rollout`. É o que o Backstage (backstage.home.lab) lê deste repo.
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: .github
+  description: .github
+  annotations:
+    github.com/project-slug: fernando-moretes/.github
+    backstage.io/source-location: url:https://github.com/fernando-moretes/.github
+    sonarqube.org/project-key: .github
+  links:
+    - url: https://github.com/fernando-moretes/.github/actions
+      title: Actions
+      icon: github
+    - url: https://sonarqube.home.lab/dashboard?id=.github
+      title: SonarQube
+    - url: https://defectdojo.home.lab/product?name=.github
+      title: DefectDojo
+  tags: [other, ci-generic.yml]
+spec:
+  type: other
+  lifecycle: production
+  owner: group:plataforma
+  system: homelab
