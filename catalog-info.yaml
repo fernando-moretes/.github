@@ -4,7 +4,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: .github
-  description: .github
+  description: ".github"
   annotations:
     github.com/project-slug: fernando-moretes/.github
     backstage.io/source-location: url:https://github.com/fernando-moretes/.github
@@ -17,7 +17,9 @@ metadata:
       title: SonarQube
     - url: https://defectdojo.home.lab/product?name=.github
       title: DefectDojo
-  tags: [other, ci-generic.yml]
+  # tags so aceitam [a-z0-9-]: ci-generic.yml (ci-node.yml) tem ponto e reprovava
+  # todo componente na policy check do Backstage.
+  tags: [other, generic]
 spec:
   type: other
   lifecycle: production
